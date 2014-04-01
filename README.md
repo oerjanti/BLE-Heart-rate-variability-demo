@@ -5,7 +5,7 @@ Bluetooth low energy (Smart) Heart rate variability sensor demo app for Android
 
 This app searches for nearby BLE devices and connects to heart rate sensor service. It shows hear rate (average pulse) and heart rate variability (beat-to-beat interval or RR data). The app also has a graphical demo of pulsing dot for real-time biofeedback monitoring of hear rate variability showing nicely how breathing rate affects heart rate variability.
 
-Heart rate variability could be used to calculate different things like training effect on sports, sleep quality, stress and relaxation effects.
+Heart rate variability could be used to calculate different things like training effect on sports, sleep quality, stress and relaxation effects since it mirrors parasympathetic nervous system activity.
 
 BLE is a nice since it has open protocol for transmitting data like heart rate here. It makes setting up a development environment relatively fast and you can concentrate on doing you actual business logic.
 
