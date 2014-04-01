@@ -25,6 +25,9 @@ There is also [Android sample code][2] for GATT services.
 </ul>
 
 ## Use instructions
+
+Install the app from [Google Play Store][5]
+
 Connect heart rate BLE belt on your chest or wrist. Start the app and scan for BLE devices. Select heart rate sensor and wait for the GATT hear rate service to be found. Heart rate data values starts to update on the screen. Press demo button to show a graphical demo of heart rate variability. You will get nice graphics when you sit down relaxed. Try some slow deep breaths. The dot shows your heart rate variability cut from 700 milliseconds corresponding to pulse of 87. If your pulse is higher no dot is drawn. You can select GATT information services to read other data on the device.
 
 ## Troubleshooting
@@ -75,3 +78,4 @@ THE SOFTWARE.
 [2]:http://developer.android.com/guide/topics/connectivity/bluetooth-le.html
 [3]:http://developer.android.com/samples/BluetoothLeGatt/index.html
 [4]:http://androidbook.com/akc/display?url=DisplayNoteIMPURL&reportId=3189&ownerUserId=android
+[5]:https://play.google.com/store/apps/details?id=com.sample.hrv
